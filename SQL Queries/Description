@@ -1,3 +1,2 @@
 Contains SQL queries used to analyze sales, profit, and customer trends from the Superstore dataset.
-
 These queries help derive insights such as top-performing regions, product categories, and discount impacts.
