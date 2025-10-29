@@ -57,6 +57,8 @@ Assess how discounts affect profitability.
 
 Visualize profit margins with and without discount filters.
 
+***
+
 ### ⚙️ Tools & Technologies
 
 Database: MySQL Workbench
