@@ -75,40 +75,39 @@ Data Source: Superstore dataset (Kaggle)
 
 ### 🧾 How to Run the Project
 
-1 Import Dataset
+1️⃣ Import Dataset
 
 Open MySQL Workbench
 
 Create a new database:
 
 CREATE DATABASE superstore_analysis;
-
 USE superstore_analysis;
 
 Import the Superstore dataset CSV file into MySQL.
 
-2 Run SQL Queries
+2️⃣ Run SQL Queries
 
 Execute each file from the SQL_Queries folder to perform data analysis.
 
 Queries cover sales, profit, and category insights.
 
-3 Python Analysis
+3️⃣ Python Analysis
 
-Open superstore_analysis.py or Jupyter notebook file.
+Open superstore_analysis.py or the Jupyter notebook file.
 
 Run the script to generate graphs and summary insights.
 
-4 Power BI Dashboard
+4️⃣ Power BI Dashboard
 
 Open the Superstore_Sales_Dashboard.pbix file in Power BI Desktop.
 
 Explore interactive visuals across 4 pages:
 
-Sales Overview
+💼 Sales Overview
 
-Monthly Sales Trend
+📈 Monthly Sales Trend
 
-Sales vs Profit by Segment
+💰 Sales vs Profit by Segment
 
-Regional & Segment Analysis
+🌍 Regional & Segment Analysis
