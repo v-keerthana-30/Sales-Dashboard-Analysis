@@ -1,10 +1,10 @@
-## 🛒 Superstore Sales Analysis (MySQL + Python Project)
+## 🛒 Superstore Sales Analysis (MySQL + Python + Power BI Project)
 
 ***
 
 ### 📌 Project Overview
 This project performs a detailed analysis of Superstore sales data to uncover patterns in profits, customer behavior, and regional performance.
-The dataset is imported into MySQL Workbench for structured querying and Python is used for visualization and advanced analysis.
+The dataset is imported into MySQL Workbench for structured querying and Python is used for visualization and analysis, and Power BI is used to build an interactive business dashboard for insight visualization.
 
 ***
 
@@ -63,9 +63,11 @@ Database: MySQL Workbench
 
 Programming Language: Python (Pandas, Matplotlib, Seaborn)
 
-Data Source: Superstore dataset (Kaggle)
+Dashboard Tool: Power BI
 
 Query Language: SQL
+
+Data Source: Superstore dataset (Kaggle)
 
 ***
 
@@ -94,3 +96,17 @@ Queries cover sales, profit, and category insights.
 Open superstore_analysis.py or Jupyter notebook file.
 
 Run the script to generate graphs and summary insights.
+
+4 Power BI Dashboard
+
+Open the Superstore_Sales_Dashboard.pbix file in Power BI Desktop.
+
+Explore interactive visuals across 4 pages:
+
+Sales Overview
+
+Monthly Sales Trend
+
+Sales vs Profit by Segment
+
+Regional & Segment Analysis
